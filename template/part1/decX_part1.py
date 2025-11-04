@@ -15,3 +15,4 @@ if __name__ == '__main__':
     print(main())
     end = time.perf_counter()
     print(f"Executed in {((end - start)*1000):0.2f} milliseconds")
+    f.close()

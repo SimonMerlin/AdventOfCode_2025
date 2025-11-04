@@ -1,6 +1,5 @@
 import importlib
 import time
-import timeit
 
 def import_from(module, name):
     return getattr(importlib.import_module(module), name)

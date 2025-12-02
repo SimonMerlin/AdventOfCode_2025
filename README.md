@@ -18,7 +18,7 @@ The repository is sorted by day, in each day there is two parts of the puzzle an
 To run a solution simply use your python interpreter. For example to running part one of day one from the projet's root:
 
 ```console
-$ python3 ./1/part1/dec1_part1.py
+$ python ./1/part1/dec1_part1.py
 ```
 
 ## To interpret the solution
@@ -26,7 +26,7 @@ $ python3 ./1/part1/dec1_part1.py
 After execution, the programm will print the answer on the standard output and time execution in milliseconds :
 
 ```console
-$ python3 ./1/part1/dec1_part1.py
+$ python ./1/part1/dec1_part1.py
 1527
 Executed in 3.50 milliseconds
 ```
